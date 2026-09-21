@@ -1,0 +1,6 @@
+{
+  "name": "Goethe C1 Wortschatz Studio",
+  "description": "Desktop-style German vocabulary mastery app for Goethe C1 featuring Active Recall, contextual example sentences, polysemous word training, and an adaptive mistake repetition queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
